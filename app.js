@@ -1,4 +1,4 @@
-//jshint esversion:6
+//Todolist Pablo Armendariz 
 
 const express = require("express");
 const bodyParser = require("body-parser");
